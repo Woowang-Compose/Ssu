@@ -1,1 +1,1 @@
-# Ssu
+# SSU의 Compose practice
